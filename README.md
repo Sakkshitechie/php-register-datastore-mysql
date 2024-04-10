@@ -1,0 +1,1 @@
+Website for user register and login made with the use of PHP, HTML, CSS code.<br> It takes the input of the User details to store in the MySQL database and login only to the Users who are already registered.
