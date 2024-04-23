@@ -29,7 +29,7 @@ Upon successful login, you will be redirected to the dashboard or a designated l
 <li><b>index.php: </b>Main landing page.</li>
 <li><b>register.html:</b> User registration page.</li>
 <li><b>login.html:</b> User login page.</li>
-<li><b>login.php:</b> Login File for database connection.</li>
+<li><b>login.php:</b> Login File for database connection and Validation.</li>
 <li><b>register.php:</b> Register File for database connection.</li>
 </ol>
 
