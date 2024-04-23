@@ -26,14 +26,14 @@ Upon successful login, you will be redirected to the dashboard or a designated l
 
 <h2>File Structure:</h2>
 <ol>
-<li>index.php: Main landing page.</li>
-<li>register.php: User registration page.</li>
-<li>login.php: User login page.</li>
-<li>dashboard.php: User dashboard page (if applicable).</li>
-<li>config.php: Configuration file for database connection.</li>
-<li>style.css: CSS file for styling.</li>
-<li>script.js: JavaScript file for client-side scripting (if applicable).</li>
-<li>database.sql: SQL file for database table structure.</li>
+<li><b>index.php: </b>Main landing page.</li>
+<li><b>register.php:</b> User registration page.</li>
+<li><b>login.php:</b> User login page.</li>
+<li><b>dashboard.php:</b> User dashboard page (if applicable).</li>
+<li><b>config.php:</b> Configuration file for database connection.</li>
+<li><b>style.css:</b> CSS file for styling.</li>
+<li><b>script.js:</b> JavaScript file for client-side scripting (if applicable).</li>
+<li><b>database.sql:</b> SQL file for database table structure.</li>
 </ol>
 
 <h2>Dependencies:</h2>
