@@ -14,8 +14,8 @@ This project implements a basic user registration and login system using PHP, HT
 <h2>Installation:</h2>
 Ensure you have a web server environment set up with PHP and MySQL installed.
 Clone this repository to your local machine or server.
-Import the included SQL file into your MySQL database to create the necessary tables.
-Update the database connection settings in config.php file with your MySQL credentials.
+MySQL database to create the necessary tables.
+Update the database connection settings in login.php and register.php file with your MySQL credentials.
 Upload the project files to your web server.
 
 <h2>Usage:</h2>
@@ -27,13 +27,10 @@ Upon successful login, you will be redirected to the dashboard or a designated l
 <h2>File Structure:</h2>
 <ol>
 <li><b>index.php: </b>Main landing page.</li>
-<li><b>register.php:</b> User registration page.</li>
-<li><b>login.php:</b> User login page.</li>
-<li><b>dashboard.php:</b> User dashboard page (if applicable).</li>
-<li><b>config.php:</b> Configuration file for database connection.</li>
-<li><b>style.css:</b> CSS file for styling.</li>
-<li><b>script.js:</b> JavaScript file for client-side scripting (if applicable).</li>
-<li><b>database.sql:</b> SQL file for database table structure.</li>
+<li><b>register.html:</b> User registration page.</li>
+<li><b>login.html:</b> User login page.</li>
+<li><b>login.php:</b> Login File for database connection.</li>
+<li><b>register.php:</b> Register File for database connection.</li>
 </ol>
 
 <h2>Dependencies:</h2>
